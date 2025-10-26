@@ -39,4 +39,3 @@ JavaScript (ES6)
 Fetch API para comunicação com a API de alunos
 
 Aplicação funcionando na Vercel: https://programa-o-4t7uao9il-felipes-projects-1fee765c.vercel.app
-programa-o-oj4ckzrld-felipes-projects-1fee765c.vercel.app
