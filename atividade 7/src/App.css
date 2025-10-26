@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4;
+}
+
+.game {
+  text-align: center;
+}
+
+.board-row {
+  display: flex;
+}
+
+.square {
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.status {
+  margin: 10px 0;
+  font-size: 1.2rem;
+}
